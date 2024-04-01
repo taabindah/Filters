@@ -20,3 +20,7 @@ Blurs the input image by averaging the RGB values of neighboring pixels within a
 Detects edges in the input image using the Sobel operator. It calculates the gradients in both the x and y directions for each pixel and computes the magnitude to identify edges.
 
 These filters can be used individually or in combination to achieve different visual effects and enhancements in images.
+
+# 
+Kindly take note that the basic functionalities are part of the assignment starting code and are not original to me. The logic behind these filters is my work. Initial code: ©2020 Malan, David J. Malan/Harvard
+
